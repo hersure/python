@@ -1,3 +1,3 @@
 # python
-#Python class assignments
-#Individual and group projects
+<p> Python class assignments</p>
+<p> Individual and group projects</p>
